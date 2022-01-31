@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2362.2px"
+   height="1181.1px"
+   version="1.1"
+   id="svg373"
+   sodipodi:docname="google-trends-plus-articles-additiv.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview375"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.54864111"
+     inkscape:cx="1182.0113"
+     inkscape:cy="589.63865"
+     inkscape:window-width="2560"
+     inkscape:window-height="1373"
+     inkscape:window-x="1341"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg373" />
+  <desc
+     id="desc2">Veusz output document</desc>
+  <defs
+     id="defs37">
+    <clipPath
+       id="c0">
+      <path
+         d="m0,0l2362.2,0l0,1181.1l-2362.2,0l0,-1181.1"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       id="c1">
+      <path
+         d="m200.78,525.88l2137.79,0l0,454.42l-2137.79,0l0,-454.42"
+         id="path7" />
+    </clipPath>
+    <clipPath
+       id="c2">
+      <path
+         d="m200.78,23.62l2137.79,0l0,454.42l-2137.79,0l0,-454.42"
+         id="path10" />
+    </clipPath>
+    <clipPath
+       id="c3">
+      <path
+         d="m210.47,24.61l59.05,0l0,55.4l-59.05,0l0,-55.4"
+         id="path13" />
+    </clipPath>
+    <clipPath
+       id="c4">
+      <path
+         d="m210.47,80.01l59.05,0l0,55.4l-59.05,0l0,-55.4"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       id="c5">
+      <path
+         d="m210.47,135.41l59.05,0l0,55.4l-59.05,0l0,-55.4"
+         id="path19" />
+    </clipPath>
+    <clipPath
+       id="c6">
+      <path
+         d="m210.47,190.81l59.05,0l0,55.4l-59.05,0l0,-55.4"
+         id="path22" />
+    </clipPath>
+    <clipPath
+       id="c7">
+      <path
+         d="m210.47,246.21l59.05,0l0,55.4l-59.05,0l0,-55.4"
+         id="path25" />
+    </clipPath>
+    <clipPath
+       id="c8">
+      <path
+         d="m210.47,301.61l59.05,0l0,55.4l-59.05,0l0,-55.4"
+         id="path28" />
+    </clipPath>
+    <clipPath
+       id="c9">
+      <path
+         d="m210.47,357.01l59.05,0l0,55.4l-59.05,0l0,-55.4"
+         id="path31" />
+    </clipPath>
+    <clipPath
+       id="c10">
+      <path
+         d="m210.47,412.41l59.05,0l0,55.4l-59.05,0l0,-55.4"
+         id="path34" />
+    </clipPath>
+  </defs>
+  <g
+     stroke-linejoin="bevel"
+     stroke-linecap="square"
+     stroke="#000000"
+     fill-rule="evenodd"
+     id="g371">
+    <g
+       clip-path="url(#c0)"
+       id="g49">
+      <g
+         fill="#ffffff"
+         stroke-width="2.08"
+         id="g41">
+        <path
+           d="m200.78,23.62l2137.79,0l0,956.69l-2137.79,0l0,-956.69"
+           id="path39" />
+      </g>
+      <g
+         fill="none"
+         stroke-width="0.1"
+         id="g47">
+        <g
+           stroke="none"
+           fill="#000000"
+           fill-opacity="1"
+           font-family="Times New Roman"
+           font-size="54.166666666666664"
+           id="g45">
+          <text
+             x="1447.12"
+             y="486.66"
+             textLength="27.1"
+             id="text43">1</text>
+        </g>
+      </g>
+    </g>
+    <g
+       clip-path="url(#c1)"
+       id="g107">
+      <g
+         fill="#999999"
+         stroke="none"
+         stroke-width="0.1"
+         id="g53">
+        <path
+           d="m1480.65,542.71l421.93,84.15l435.99,201.96l0,151.47l-2137.79,0l0,-269.29l435.99,-84.15l407.86,-84.15"
+           id="path51" />
+      </g>
+      <g
+         fill="none"
+         stroke-width="4.16"
+         id="g57">
+        <polyline
+           fill="none"
+           points="200.78,711.02 636.78,626.87 1044.65,542.71 1480.65,542.71 1902.58,626.87 2338.58,828.83"
+           id="polyline55" />
+      </g>
+      <g
+         fill="#f781bf"
+         stroke="none"
+         stroke-width="0.1"
+         id="g61">
+        <path
+           d="m1480.65,778.34l421.93,-67.32l435.99,185.13l0,84.15l-2137.79,0l0,-235.62l435.99,16.83l407.86,-16.83"
+           id="path59" />
+      </g>
+      <g
+         fill="none"
+         stroke-dasharray="4.16,8.33"
+         stroke-width="4.16"
+         id="g65">
+        <polyline
+           fill="none"
+           points="200.78,744.68 636.78,761.51 1044.65,744.68 1480.65,778.34 1902.58,711.02 2338.58,896.16"
+           id="polyline63" />
+      </g>
+      <g
+         fill="#a65628"
+         stroke="none"
+         stroke-width="0.1"
+         id="g69">
+        <path
+           d="m1480.65,862.5l421.93,-33.66l435.99,100.98l0,50.49l-2137.79,0l0,-134.64l435.99,0l407.86,16.83"
+           id="path67" />
+      </g>
+      <g
+         fill="none"
+         stroke-width="4.16"
+         id="g73">
+        <polyline
+           fill="none"
+           points="200.78,845.66 636.78,845.66 1044.65,862.5 1480.65,862.5 1902.58,828.83 2338.58,929.82"
+           id="polyline71" />
+      </g>
+      <g
+         fill="#ff7f00"
+         stroke="none"
+         stroke-width="0.1"
+         id="g77">
+        <path
+           d="m1480.65,946.65l421.93,-67.32l435.99,100.98l-2137.79,0l0,-50.49l435.99,-16.83l407.86,33.66"
+           id="path75" />
+      </g>
+      <g
+         fill="none"
+         stroke-dasharray="4.16,8.33"
+         stroke-width="4.16"
+         id="g81">
+        <polyline
+           fill="none"
+           points="200.78,929.82 636.78,912.99 1044.65,946.65 1480.65,946.65 1902.58,879.33 2338.58,980.31"
+           id="polyline79" />
+      </g>
+      <g
+         fill="#984ea3"
+         stroke="none"
+         stroke-width="0.1"
+         id="g85">
+        <path
+           d="m1480.65,963.48l421.93,-33.66l435.99,50.49l-2137.79,0l0,-50.49l435.99,33.66l407.86,-16.83"
+           id="path83" />
+      </g>
+      <g
+         fill="none"
+         stroke-width="4.16"
+         id="g89">
+        <polyline
+           fill="none"
+           points="200.78,929.82 636.78,963.48 1044.65,946.65 1480.65,963.48 1902.58,929.82 2338.58,980.31"
+           id="polyline87" />
+      </g>
+      <g
+         fill="#4daf4a"
+         stroke="none"
+         stroke-width="0.1"
+         id="g93">
+        <path
+           d="m1480.65,980.31l421.93,-16.83l435.99,16.83l-2137.79,0l0,-16.83l435.99,16.83l407.86,-33.66"
+           id="path91" />
+      </g>
+      <g
+         fill="none"
+         stroke-dasharray="4.16,8.33"
+         stroke-width="4.16"
+         id="g97">
+        <polyline
+           fill="none"
+           points="200.78,963.48 636.78,980.31 1044.65,946.65 1480.65,980.31 1902.58,963.48 2338.58,980.31"
+           id="polyline95" />
+      </g>
+      <g
+         fill="#377eb8"
+         stroke="none"
+         stroke-width="0.1"
+         id="g101">
+        <path
+           d="m1480.65,980.31l421.93,0l435.99,0l-2137.79,0l435.99,0l407.86,-16.83"
+           id="path99" />
+      </g>
+      <g
+         fill="none"
+         stroke-width="4.16"
+         id="g105">
+        <polyline
+           fill="none"
+           points="200.78,980.31 636.78,980.31 1044.65,963.48 1480.65,980.31 1902.58,980.31 2338.58,980.31"
+           id="polyline103" />
+      </g>
+    </g>
+    <g
+       clip-path="url(#c3)"
+       id="g117"
+       transform="translate(0,10)">
+      <g
+         fill="none"
+         stroke="#e41a1c"
+         stroke-linecap="butt"
+         stroke-width="2.08"
+         id="g111">
+        <path
+           d="m 240,52.31 v 0"
+           id="path109" />
+      </g>
+      <g
+         fill="none"
+         stroke-dasharray="33.33, 16.66"
+         stroke-width="8.33"
+         id="g115">
+        <path
+           d="m 210.47,52.31 h 59.05"
+           id="path113" />
+      </g>
+    </g>
+    <g
+       fill="none"
+       stroke-width="0.1"
+       id="g123"
+       transform="translate(0,10)">
+      <g
+         stroke="none"
+         fill="#000000"
+         fill-opacity="1"
+         font-family="'Times New Roman'"
+         font-size="50px"
+         id="g121">
+        <text
+           x="324.92001"
+           y="69.209999"
+           textLength="558.40002"
+           id="text119"
+           lengthAdjust="spacing">Google Trends Deutschland</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#c4)"
+       id="g137"
+       transform="translate(0,10)">
+      <g
+         fill="#377eb8"
+         stroke="none"
+         stroke-width="0.1"
+         id="g127">
+        <path
+           d="m 210.47,107.71 h 59.05 v 24.93 h -59.05 v -24.93"
+           id="path125" />
+      </g>
+      <g
+         fill="none"
+         stroke="#377eb8"
+         stroke-linecap="butt"
+         stroke-width="2.08"
+         id="g131">
+        <path
+           d="m 240,107.71 v 0"
+           id="path129" />
+      </g>
+      <g
+         fill="none"
+         stroke-width="4.16"
+         id="g135">
+        <path
+           d="m 210.47,107.71 h 59.05"
+           id="path133" />
+      </g>
+    </g>
+    <g
+       fill="none"
+       stroke-width="0.1"
+       id="g143"
+       transform="translate(0,10)">
+      <g
+         stroke="none"
+         fill="#000000"
+         fill-opacity="1"
+         font-family="'Times New Roman'"
+         font-size="50px"
+         id="g141">
+        <text
+           x="324.92001"
+           y="124.61"
+           textLength="105.6"
+           id="text139"
+           lengthAdjust="spacing">Stern</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#c5)"
+       id="g157"
+       transform="translate(0,10)">
+      <g
+         fill="#4daf4a"
+         stroke="none"
+         stroke-width="0.1"
+         id="g147">
+        <path
+           d="m 210.47,163.11 h 59.05 v 24.93 h -59.05 v -24.93"
+           id="path145" />
+      </g>
+      <g
+         fill="none"
+         stroke="#4daf4a"
+         stroke-linecap="butt"
+         stroke-width="2.08"
+         id="g151">
+        <path
+           d="m 240,163.11 v 0"
+           id="path149" />
+      </g>
+      <g
+         fill="none"
+         stroke-dasharray="4.16, 8.33"
+         stroke-width="4.16"
+         id="g155">
+        <path
+           d="m 210.47,163.11 h 59.05"
+           id="path153" />
+      </g>
+    </g>
+    <g
+       fill="none"
+       stroke-width="0.1"
+       id="g163"
+       transform="translate(0,10)">
+      <g
+         stroke="none"
+         fill="#000000"
+         fill-opacity="1"
+         font-family="'Times New Roman'"
+         font-size="50px"
+         id="g161">
+        <text
+           x="324.92001"
+           y="180.00999"
+           textLength="165.2"
+           id="text159"
+           lengthAdjust="spacing">Die Zeit</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#c6)"
+       id="g177"
+       transform="translate(0,10)">
+      <g
+         fill="#984ea3"
+         stroke="none"
+         stroke-width="0.1"
+         id="g167">
+        <path
+           d="m 210.47,218.51 h 59.05 v 24.93 h -59.05 v -24.93"
+           id="path165" />
+      </g>
+      <g
+         fill="none"
+         stroke="#984ea3"
+         stroke-linecap="butt"
+         stroke-width="2.08"
+         id="g171">
+        <path
+           d="m 240,218.51 v 0"
+           id="path169" />
+      </g>
+      <g
+         fill="none"
+         stroke-width="4.16"
+         id="g175">
+        <path
+           d="m 210.47,218.51 h 59.05"
+           id="path173" />
+      </g>
+    </g>
+    <g
+       fill="none"
+       stroke-width="0.1"
+       id="g183"
+       transform="translate(0,10)">
+      <g
+         stroke="none"
+         fill="#000000"
+         fill-opacity="1"
+         font-family="'Times New Roman'"
+         font-size="50px"
+         id="g181">
+        <text
+           x="324.92001"
+           y="235.41"
+           textLength="237.5"
+           id="text179"
+           lengthAdjust="spacing">Der Spiegel</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#c7)"
+       id="g197"
+       transform="translate(0,10)">
+      <g
+         fill="#ff7f00"
+         stroke="none"
+         stroke-width="0.1"
+         id="g187">
+        <path
+           d="m 210.47,273.91 h 59.05 v 24.93 h -59.05 v -24.93"
+           id="path185" />
+      </g>
+      <g
+         fill="none"
+         stroke="#ff7f00"
+         stroke-linecap="butt"
+         stroke-width="2.08"
+         id="g191">
+        <path
+           d="m 240,273.91 v 0"
+           id="path189" />
+      </g>
+      <g
+         fill="none"
+         stroke-dasharray="4.16, 8.33"
+         stroke-width="4.16"
+         id="g195">
+        <path
+           d="m 210.47,273.91 h 59.05"
+           id="path193" />
+      </g>
+    </g>
+    <g
+       fill="none"
+       stroke-width="0.1"
+       id="g203"
+       transform="translate(0,10)">
+      <g
+         stroke="none"
+         fill="#000000"
+         fill-opacity="1"
+         font-family="'Times New Roman'"
+         font-size="50px"
+         id="g201">
+        <text
+           x="324.92001"
+           y="290.81"
+           textLength="119.5"
+           id="text199"
+           lengthAdjust="spacing">Focus</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#c8)"
+       id="g217"
+       transform="translate(0,64)">
+      <g
+         fill="#a65628"
+         stroke="none"
+         stroke-width="0.1"
+         id="g207">
+        <path
+           d="m 210.47,329.31 h 59.05 v 24.93 h -59.05 v -24.93"
+           id="path205" />
+      </g>
+      <g
+         fill="none"
+         stroke="#a65628"
+         stroke-linecap="butt"
+         stroke-width="2.08"
+         id="g211">
+        <path
+           d="m 240,329.31 v 0"
+           id="path209" />
+      </g>
+      <g
+         fill="none"
+         stroke-width="4.16"
+         id="g215">
+        <path
+           d="m 210.47,329.31 h 59.05"
+           id="path213" />
+      </g>
+    </g>
+    <g
+       fill="none"
+       stroke-width="0.1"
+       id="g223">
+      <g
+         stroke="none"
+         fill="#000000"
+         fill-opacity="1"
+         font-family="'Times New Roman'"
+         font-size="50px"
+         id="g221"
+         transform="translate(0,64)">
+        <text
+           x="324.92001"
+           y="346.20999"
+           textLength="252.8"
+           id="text219"
+           lengthAdjust="spacing">Handelsblatt</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#c9)"
+       id="g237"
+       transform="translate(0,64)">
+      <g
+         fill="#f781bf"
+         stroke="none"
+         stroke-width="0.1"
+         id="g227">
+        <path
+           d="m 210.47,384.71 h 59.05 v 24.93 h -59.05 v -24.93"
+           id="path225" />
+      </g>
+      <g
+         fill="none"
+         stroke="#f781bf"
+         stroke-linecap="butt"
+         stroke-width="2.08"
+         id="g231">
+        <path
+           d="m 240,384.71 v 0"
+           id="path229" />
+      </g>
+      <g
+         fill="none"
+         stroke-dasharray="4.16, 8.33"
+         stroke-width="4.16"
+         id="g235">
+        <path
+           d="m 210.47,384.71 h 59.05"
+           id="path233" />
+      </g>
+    </g>
+    <g
+       fill="none"
+       stroke-width="0.1"
+       id="g243"
+       transform="translate(0,64)">
+      <g
+         stroke="none"
+         fill="#000000"
+         fill-opacity="1"
+         font-family="'Times New Roman'"
+         font-size="50px"
+         id="g241">
+        <text
+           x="324.92001"
+           y="401.60999"
+           textLength="420.79999"
+           id="text239"
+           lengthAdjust="spacing">Süddeutsche Zeitung</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#c10)"
+       id="g257"
+       transform="translate(0,64)">
+      <g
+         fill="#999999"
+         stroke="none"
+         stroke-width="0.1"
+         id="g247">
+        <path
+           d="m 210.47,440.11 h 59.05 v 24.93 h -59.05 v -24.93"
+           id="path245" />
+      </g>
+      <g
+         fill="none"
+         stroke="#999999"
+         stroke-linecap="butt"
+         stroke-width="2.08"
+         id="g251">
+        <path
+           d="m 240,440.11 v 0"
+           id="path249" />
+      </g>
+      <g
+         fill="none"
+         stroke-width="4.16"
+         id="g255">
+        <path
+           d="m 210.47,440.11 h 59.05"
+           id="path253" />
+      </g>
+    </g>
+    <g
+       fill="none"
+       stroke-width="0.1"
+       id="g263"
+       transform="translate(0,64)">
+      <g
+         stroke="none"
+         fill="#000000"
+         fill-opacity="1"
+         font-family="'Times New Roman'"
+         font-size="50px"
+         id="g261">
+        <text
+           x="324.92001"
+           y="457.01001"
+           textLength="638.90002"
+           id="text259"
+           lengthAdjust="spacing">Frankfurter Allgemeine Zeitung</text>
+      </g>
+    </g>
+    <g
+       clip-path="url(#c2)"
+       id="g269">
+      <g
+         fill="none"
+         stroke-dasharray="33.33,16.66"
+         stroke-width="8.33"
+         id="g267">
+        <polyline
+           fill="none"
+           points="200.78,354.11 636.78,340.34 1044.65,422.96 1480.65,78.7 1902.58,395.42 2338.58,478.05"
+           id="polyline265" />
+      </g>
+    </g>
+    <g
+       clip-path="url(#c0)"
+       id="g369">
+      <g
+         fill="#000000"
+         stroke-linecap="butt"
+         stroke-width="2.08"
+         id="g275">
+        <g
+           transform="matrix(0 1 -1 0 1480.47 27.44)"
+           id="g273">
+          <path
+             d="M0,0l953.45,0"
+             id="path271" />
+        </g>
+      </g>
+      <g
+         fill="none"
+         stroke-linecap="butt"
+         stroke-width="2.08"
+         id="g283">
+        <path
+           d="M200.78,980.31l2137.79,0"
+           id="path277" />
+        <path
+           d="M200.78,980.31l0,-12.5M636.78,980.31l0,-12.5M1044.65,980.31l0,-12.5M1480.65,980.31l0,-12.5M1902.58,980.31l0,-12.5M2338.58,980.31l0,-12.5"
+           id="path279" />
+        <path
+           d="M200.78,980.31l0,-25M636.78,980.31l0,-25M1044.65,980.31l0,-25M1480.65,980.31l0,-25M1902.58,980.31l0,-25M2338.58,980.31l0,-25"
+           id="path281" />
+      </g>
+      <g
+         fill="none"
+         stroke-width="0.1"
+         id="g301">
+        <g
+           stroke="none"
+           fill="#000000"
+           fill-opacity="1"
+           font-family="Times New Roman"
+           font-size="54.166666666666664"
+           id="g299">
+          <text
+             x="968.03"
+             y="1118.91"
+             textLength="603.3"
+             id="text285">Monat der Veröffentlichung</text>
+          <text
+             x="110.48"
+             y="1042.61"
+             textLength="180.6"
+             id="text287">2020-01</text>
+          <text
+             x="546.48"
+             y="1042.61"
+             textLength="180.6"
+             id="text289">2020-02</text>
+          <text
+             x="954.35"
+             y="1042.61"
+             textLength="180.6"
+             id="text291">2020-03</text>
+          <text
+             x="1390.35"
+             y="1042.61"
+             textLength="180.6"
+             id="text293">2020-04</text>
+          <text
+             x="1812.28"
+             y="1042.61"
+             textLength="180.6"
+             id="text295">2020-05</text>
+          <text
+             x="2181.6"
+             y="1042.61"
+             textLength="180.6"
+             id="text297">2020-06</text>
+        </g>
+      </g>
+      <g
+         fill="none"
+         stroke-linecap="butt"
+         stroke-width="2.08"
+         id="g313">
+        <polyline
+           fill="none"
+           points="200.78,980.31 200.78,525.88 224.7,501.96 200.78,478.05 200.78,23.62"
+           id="polyline303" />
+        <path
+           d="M200.78,980.31l-12.5,0M200.78,963.48l-12.5,0M200.78,946.65l-12.5,0M200.78,929.82l-12.5,0M200.78,912.99l-12.5,0M200.78,896.16l-12.5,0M200.78,879.33l-12.5,0M200.78,862.5l-12.5,0M200.78,845.66l-12.5,0M200.78,828.83l-12.5,0M200.78,812l-12.5,0M200.78,795.17l-12.5,0M200.78,778.34l-12.5,0M200.78,761.51l-12.5,0M200.78,744.68l-12.5,0M200.78,727.85l-12.5,0M200.78,711.02l-12.5,0M200.78,694.19l-12.5,0M200.78,677.36l-12.5,0M200.78,660.53l-12.5,0M200.78,643.7l-12.5,0M200.78,626.87l-12.5,0M200.78,610.03l-12.5,0M200.78,593.2l-12.5,0M200.78,576.37l-12.5,0M200.78,559.54l-12.5,0M200.78,542.71l-12.5,0M200.78,525.88l-12.5,0"
+           id="path305" />
+        <path
+           d="M200.78,980.31l-25,0M200.78,896.16l-25,0M200.78,812l-25,0M200.78,727.85l-25,0M200.78,643.7l-25,0M200.78,559.54l-25,0"
+           id="path307" />
+        <path
+           d="M200.78,471.16l-12.5,0M200.78,436.73l-12.5,0M200.78,402.31l-12.5,0M200.78,367.88l-12.5,0M200.78,333.46l-12.5,0M200.78,299.03l-12.5,0M200.78,264.6l-12.5,0M200.78,230.18l-12.5,0M200.78,195.75l-12.5,0M200.78,161.32l-12.5,0M200.78,126.9l-12.5,0M200.78,92.47l-12.5,0M200.78,58.04l-12.5,0M200.78,23.62l-12.5,0"
+           id="path309" />
+        <path
+           d="M200.78,436.73l-25,0M200.78,367.88l-25,0M200.78,299.03l-25,0M200.78,230.18l-25,0M200.78,161.32l-25,0M200.78,92.47l-25,0M200.78,23.62l-25,0"
+           id="path311" />
+      </g>
+      <g
+         fill="none"
+         stroke-width="0.1"
+         id="g349">
+        <g
+           transform="matrix(0 -1 1 0 48.3 717.31)"
+           id="g319">
+          <g
+             stroke="none"
+             fill="#000000"
+             fill-opacity="1"
+             font-family="Times New Roman"
+             font-size="54.166666666666664"
+             id="g317">
+            <text
+               x="0"
+               y="0"
+               textLength="430.7"
+               id="text315">Anzahl der Artikeln</text>
+          </g>
+        </g>
+        <g
+           stroke="none"
+           fill="#000000"
+           fill-opacity="1"
+           font-family="Times New Roman"
+           font-size="54.166666666666664"
+           id="g347">
+          <text
+             x="134.68"
+             y="998.96"
+             textLength="27.1"
+             id="text321">0</text>
+          <text
+             x="134.68"
+             y="914.81"
+             textLength="27.1"
+             id="text323">5</text>
+          <text
+             x="107.58"
+             y="830.65"
+             textLength="54.2"
+             id="text325">10</text>
+          <text
+             x="107.58"
+             y="746.5"
+             textLength="54.2"
+             id="text327">15</text>
+          <text
+             x="107.58"
+             y="662.35"
+             textLength="54.2"
+             id="text329">20</text>
+          <text
+             x="107.58"
+             y="578.19"
+             textLength="54.2"
+             id="text331">25</text>
+          <text
+             x="107.58"
+             y="455.38"
+             textLength="54.2"
+             id="text333">70</text>
+          <text
+             x="107.58"
+             y="386.53"
+             textLength="54.2"
+             id="text335">75</text>
+          <text
+             x="107.58"
+             y="317.68"
+             textLength="54.2"
+             id="text337">80</text>
+          <text
+             x="107.58"
+             y="248.83"
+             textLength="54.2"
+             id="text339">85</text>
+          <text
+             x="107.58"
+             y="179.97"
+             textLength="54.2"
+             id="text341">90</text>
+          <text
+             x="107.58"
+             y="111.12"
+             textLength="54.2"
+             id="text343">95</text>
+          <text
+             x="80.48"
+             y="49.3"
+             textLength="81.3"
+             id="text345">100</text>
+        </g>
+      </g>
+      <g
+         fill="none"
+         stroke-linecap="butt"
+         stroke-width="2.08"
+         id="g367">
+        <path
+           d="M200.78,23.62l2137.79,0"
+           id="path351" />
+        <path
+           d="M200.78,23.62l0,12.5M636.78,23.62l0,12.5M1044.65,23.62l0,12.5M1480.65,23.62l0,12.5M1902.58,23.62l0,12.5M2338.58,23.62l0,12.5"
+           id="path353" />
+        <path
+           d="M200.78,23.62l0,25M636.78,23.62l0,25M1044.65,23.62l0,25M1480.65,23.62l0,25M1902.58,23.62l0,25M2338.58,23.62l0,25"
+           id="path355" />
+        <polyline
+           fill="none"
+           points="2338.58,980.31 2338.58,525.88 2314.66,501.96 2338.58,478.05 2338.58,23.62"
+           id="polyline357" />
+        <path
+           d="M2338.58,980.31l12.5,0M2338.58,963.48l12.5,0M2338.58,946.65l12.5,0M2338.58,929.82l12.5,0M2338.58,912.99l12.5,0M2338.58,896.16l12.5,0M2338.58,879.33l12.5,0M2338.58,862.5l12.5,0M2338.58,845.66l12.5,0M2338.58,828.83l12.5,0M2338.58,812l12.5,0M2338.58,795.17l12.5,0M2338.58,778.34l12.5,0M2338.58,761.51l12.5,0M2338.58,744.68l12.5,0M2338.58,727.85l12.5,0M2338.58,711.02l12.5,0M2338.58,694.19l12.5,0M2338.58,677.36l12.5,0M2338.58,660.53l12.5,0M2338.58,643.7l12.5,0M2338.58,626.87l12.5,0M2338.58,610.03l12.5,0M2338.58,593.2l12.5,0M2338.58,576.37l12.5,0M2338.58,559.54l12.5,0M2338.58,542.71l12.5,0M2338.58,525.88l12.5,0"
+           id="path359" />
+        <path
+           d="M2338.58,980.31l25,0M2338.58,896.16l25,0M2338.58,812l25,0M2338.58,727.85l25,0M2338.58,643.7l25,0M2338.58,559.54l25,0"
+           id="path361" />
+        <path
+           d="M2338.58,471.16l12.5,0M2338.58,436.73l12.5,0M2338.58,402.31l12.5,0M2338.58,367.88l12.5,0M2338.58,333.46l12.5,0M2338.58,299.03l12.5,0M2338.58,264.6l12.5,0M2338.58,230.18l12.5,0M2338.58,195.75l12.5,0M2338.58,161.32l12.5,0M2338.58,126.9l12.5,0M2338.58,92.47l12.5,0M2338.58,58.04l12.5,0M2338.58,23.62l12.5,0"
+           id="path363" />
+        <path
+           d="M2338.58,436.73l25,0M2338.58,367.88l25,0M2338.58,299.03l25,0M2338.58,230.18l25,0M2338.58,161.32l25,0M2338.58,92.47l25,0M2338.58,23.62l25,0"
+           id="path365" />
+      </g>
+    </g>
+  </g>
+</svg>
